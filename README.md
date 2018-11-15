@@ -1,4 +1,4 @@
-# lojavinhos
+# Lojavinhos
 
 Foi criado um servico REST para buscar as informacões solicitadas referentes a loja de vinho. A aplicação utiliza Spring Boot para 
 disponibilizar o serviço, implementar regras de negócio e utilizei embedded H2 database para trabalhar com o JPA. Os endpoints da 
