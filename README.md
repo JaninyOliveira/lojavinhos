@@ -8,13 +8,15 @@ API rest provida estão configurados no arquivo application.properties.
 
 Instalacao:
 
-Instalar JDK 8 + (JAVA_HOME and PATH) + Maven
+Instalar JDK 8 + Maven + (JAVA_HOME and PATH)
 
 Clonar repositorio
 
 Abrir CMD
 
 Rodar cd PASTA_CLONADA
+
+Rodar mvn package
 
 Rodar java -jar target/lojavinhos-1.0.0.jar
 
