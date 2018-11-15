@@ -11,9 +11,13 @@ Instalacao:
 Instalar JDK 8 + (JAVA_HOME and PATH) + Maven
 
 Clonar repositorio
+
 Abrir CMD
+
 Rodar cd PASTA_CLONADA
+
 Rodar java -jar target/lojavinhos-1.0.0.jar
+
 
 Endpoints (GET):
 
